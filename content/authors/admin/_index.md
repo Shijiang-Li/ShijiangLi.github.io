@@ -97,7 +97,7 @@ skills:
         icon: devicon/python
       - name: PyTorch
         description: ''
-        percent: 40
+        percent: 80
         icon: devicon/pytorch
         - name: Matlab
         description: ''
@@ -107,18 +107,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
       - name: Cats
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
 
 languages:
   - name: English
