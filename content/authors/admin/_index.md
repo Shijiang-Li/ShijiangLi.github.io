@@ -46,9 +46,9 @@ education:
     date_end: 2026-06-30
     summary: |
       My PhD research focuses on modeling the complex coupling relationship between the excavator bucket and materials, as well as intelligent trajectory planning. The aim is to address the limitations of traditional methods in modeling accuracy and trajectory physical feasibility. By integrating mechanistic analysis with data-driven approaches, I developed models for predicting operational resistance and bucket fill rate, and based on these, conducted intelligent optimization research on excavation trajectories, providing theoretical foundation and technical support for intelligent excavator operations.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    # button:
+      # text: 'Read Thesis'
+      # url: 'https://example.com'
   - area: BSc Mechanical Design & Manufacturing and Automation
     institution: Xiamen University
     date_start: 2017-09-01
@@ -150,4 +150,5 @@ awards:
   #     Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+
+I am currently a direct doctoral student at Xiamen University, focusing on artificial intelligence and the automation of construction machinery. My research aims to contribute to the development of intelligent systems and automation in the field of engineering machinery. I have had the opportunity to publish five papers in SCI journals related to these areas, and I continue to explore ways to improve both theoretical understanding and practical applications in this field.
