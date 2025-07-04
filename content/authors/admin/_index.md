@@ -99,7 +99,7 @@ skills:
         description: ''
         percent: 80
         icon: devicon/pytorch
-        - name: Matlab
+      - name: Matlab
         description: ''
         percent: 80
         icon: devicon/matlab
