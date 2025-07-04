@@ -45,7 +45,7 @@ education:
     date_start: 2021-09-01
     date_end: 2026-06-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      My PhD research focuses on modeling the complex coupling relationship between the excavator bucket and materials, as well as intelligent trajectory planning. The aim is to address the limitations of traditional methods in modeling accuracy and trajectory physical feasibility. By integrating mechanistic analysis with data-driven approaches, I developed models for predicting operational resistance and bucket fill rate, and based on these, conducted intelligent optimization research on excavation trajectories, providing theoretical foundation and technical support for intelligent excavator operations.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
