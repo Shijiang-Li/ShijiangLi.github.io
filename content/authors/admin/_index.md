@@ -57,11 +57,14 @@ education:
       GPA: 3.6/4.0
       
       Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - Mechanisms and Machine Theory 
       - Automatic Control Theory
       - Hydraulic Transmission
       - Mechanical Design
       - Mechatronics System
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -95,33 +98,38 @@ skills:
         description: ''
         percent: 80
         icon: devicon/python
-      - name: Matlab
+      - name: RStudio
         description: ''
         percent: 100
-        icon: devicon/matlab
+        icon: devicon/rstudio
       - name: PyTorch
         description: ''
         percent: 40
         icon: devicon/pytorch
-        - name: Solidworks
-        description: ''
-        percent: 40
-        icon: devicon/solidworks
-        
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
       - name: Cats
         description: ''
         percent: 100
         icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
 
 languages:
   - name: English
-    percent: 75
-  - name: Chinese
     percent: 100
+  - name: Chinese
+    percent: 75
+  - name: Portuguese
+    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
